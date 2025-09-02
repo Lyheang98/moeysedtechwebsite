@@ -43,4 +43,9 @@ secrets/
 secrets/
 secrets/
 secrets/
-.env
+
+# Ignore sensitive key files
+./spreadsheet-keys.json
+
+
+spreadsheet-keys.example.json
